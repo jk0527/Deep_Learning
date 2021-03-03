@@ -1,3 +1,4 @@
+# https://www.tensorflow.org/tutorials/keras/classification?hl=ko
 # tensorflow & tf.keras
 import tensorflow as tf
 from tensorflow import keras
