@@ -1,4 +1,7 @@
 # https://www.tensorflow.org/tutorials/keras/classification?hl=ko
+# MIT License
+# Copyright (c) 2017 François Chollet
+
 # tensorflow & tf.keras
 import tensorflow as tf
 from tensorflow import keras
