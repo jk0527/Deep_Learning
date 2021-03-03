@@ -1,4 +1,4 @@
-# https://www.tensorflow.org/tutorials/keras/classification?hl=ko
+# https://www.tensorflow.org/tutorials/keras/classification
 # MIT License
 # Copyright (c) 2017 François Chollet
 
